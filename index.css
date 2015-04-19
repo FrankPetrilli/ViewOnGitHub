@@ -1,0 +1,20 @@
+pre {
+	font-family: "Courier 10 Pitch", Courier, monospace;
+	font-size: 95%;
+	line-height: 140%;
+}       
+
+code {
+	font-family: Monaco, Consolas, "Andale Mono", "DejaVu Sans Mono", monospace;
+	font-size: 95%;
+	line-height: 140%;
+	background: #faf8f0;
+	color: #232323;
+	padding: 25px;
+	box-shadow: 2px 2px 1px #CCCCCC;
+	border: 1px solid #33B5E5;
+}
+
+.codeblock {
+	margin: 50px;
+}
