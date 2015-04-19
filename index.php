@@ -21,6 +21,6 @@
 </code></div>
 <p>And that produces...</p>
 <br>
-<iframe src="button.php?username=FrankPetrilli&repository=ViewOnGitHub" frameborder="0" scrolling="0" width="135px" height="35px"></iframe>
+<iframe src="button.php?username=FrankPetrilli&amp;repository=ViewOnGitHub" frameborder="0" scrolling="0" width="135px" height="35px"></iframe>
 </body>
 </html>
